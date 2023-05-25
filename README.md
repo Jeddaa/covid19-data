@@ -86,7 +86,7 @@ Covidata is a website for covid-19 data from 2019 till date. It is a Single Page
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Visit [demo]() to see the live demo of the application
+- Visit [demo](https://www.loom.com/share/9e0ccf5cd6ca4433b55a45ab967e559a) to see the live demo of the application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
