@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>BookStore</b></h3>
+  <h3><b>Covidata</b></h3>
 
 </div>
 
@@ -14,14 +14,14 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    <!-- - [🚀 Live Demo](#live-demo) -->
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  <!-- - [Deployment](#deployment) -->
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -78,16 +78,17 @@ Covidata is a website for covid-19 data from 2019 till date. It is a Single Page
   - display provinces
   - display casualties
 - Style covidata
+- write tests for components
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- Not available for now
+- Visit [demo]() to see the live demo of the application
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -151,11 +152,11 @@ npx stylelint "**/*.{css,scss}"
   npx eslint "**/*.{js,jsx}"
 ```
 
-<!-- ### Deployment
+### Deployment
 
-Not available
+- Visit [Covidata](https://covid-ata.netlify.app/) to view the live version of the app.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
