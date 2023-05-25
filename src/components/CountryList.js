@@ -25,7 +25,7 @@ const CountryList = () => {
                 <img src={Worldmap} alt="World map" />
               </div>
               <div className="w-1/2 flex flex-col justify-center">
-                <h2 className="m-0 p-0 text-2xl font-bold">Global Confrimed Cases</h2>
+                <h2 data-testid="header-1" className="m-0 p-0 text-2xl font-bold">Global Confirmed Cases</h2>
                 <p className="m-0 p-0">{globalData.confirmed}</p>
               </div>
             </div>
